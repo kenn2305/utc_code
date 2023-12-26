@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dbf8008e-3090-41c0-8690-7ef035ba092d" name="Changes" comment="utc code">
+      <change beforePath="$PROJECT_DIR$/laptrinhonlinecpp/utc_code_c++/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/laptrinhonlinecpp/utc_code_c++/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/laptrinhonlinecpp" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kenn2305&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b890e28b-04df-441d-8a0a-9e0baae71ea5" />
+        <option name="url" value="https://github.com/kenn2305/utc_algorithm_code-.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2ZchiaIW0OIjMpWfb5d1cFv37ta" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "C/C++ File.5sochan.cpp.executor": "Run",
+    "C/C++ File.MangdienI.cpp.executor": "Run",
+    "C/C++ File.Merry Christmaaas.cpp.executor": "Run",
+    "C/C++ File.SVMC 2017 pairs1 - count the pairs.cpp.executor": "Run",
+    "C/C++ File.SVMC 2017 test-Life, the Universe, and Everything.cpp.executor": "Run",
+    "C/C++ File.benduoiduongcheochinh.cpp.executor": "Run",
+    "C/C++ File.bienluanphuongtrinhtrungphuon.cpp.executor": "Run",
+    "C/C++ File.biensoxe.cpp.executor": "Run",
+    "C/C++ File.binhquangiaquyen.cpp.executor": "Run",
+    "C/C++ File.boiso.cpp.executor": "Run",
+    "C/C++ File.cacdinhnui.cpp.executor": "Run",
+    "C/C++ File.cacluachon.cpp.executor": "Run",
+    "C/C++ File.cacsochan.cpp.executor": "Run",
+    "C/C++ File.cacsochan2.cpp.executor": "Run",
+    "C/C++ File.chenphantu.cpp.executor": "Run",
+    "C/C++ File.covua.cpp.executor": "Run",
+    "C/C++ File.cucde.cpp.executor": "Run",
+    "C/C++ File.daomangkitu.cpp (1).executor": "Run",
+    "C/C++ File.daomangkitu.cpp.executor": "Run",
+    "C/C++ File.daysotangdan.cpp (1).executor": "Run",
+    "C/C++ File.daysotangdan.cpp.executor": "Run",
+    "C/C++ File.demmauvolonmonsterenergy.cpp.executor": "Run",
+    "C/C++ File.demsobobacotongchan.cpp.executor": "Run",
+    "C/C++ File.demsocapcotdiembangnhau.cpp.executor": "Run",
+    "C/C++ File.demsonghiemphuongtrinhtrungphuong.cpp.executor": "Run",
+    "C/C++ File.dibotrongthoigian.cpp.executor": "Run",
+    "C/C++ File.diemconlaihinhchunhat.cpp.executor": "Run",
+    "C/C++ File.diemtracnghiem.cpp.executor": "Run",
+    "C/C++ File.diemtrungbinh.cpp.executor": "Run",
+    "C/C++ File.duoihoc.cpp.executor": "Run",
+    "C/C++ File.duongcheotren.cpp.executor": "Run",
+    "C/C++ File.giaima.cpp.executor": "Run",
+    "C/C++ File.hanhtinhPronalandia.cpp.executor": "Run",
+    "C/C++ File.hoandoiphantuhaiday.cpp.executor": "Run",
+    "C/C++ File.khoangcachsau.cpp.executor": "Run",
+    "C/C++ File.kiemtracohaidiemtrungnhaukhong.cpp.executor": "Run",
+    "C/C++ File.mangsapxep.cpp (1).executor": "Run",
+    "C/C++ File.mangsapxep.cpp.executor": "Run",
+    "C/C++ File.nqsonphatkeo.cpp.executor": "Run",
+    "C/C++ File.phantuapdao.cpp.executor": "Run",
+    "C/C++ File.phongtranhdichbenhcovid19.cpp.executor": "Run",
+    "C/C++ File.sapxepcodieukien.cpp.executor": "Run",
+    "C/C++ File.sodienthoai.cpp.executor": "Run",
+    "C/C++ File.soganmayman.cpp.executor": "Run",
+    "C/C++ File.sothuvi.cpp.executor": "Run",
+    "C/C++ File.tansuat.cpp.executor": "Run",
+    "C/C++ File.timhaisocotichnhonhat.cpp.executor": "Run",
+    "C/C++ File.tinhtoantrenmatran.cpp.executor": "Run",
+    "C/C++ File.tomvajerry.cpp (1).executor": "Run",
+    "C/C++ File.tomvajerry.cpp.executor": "Run",
+    "C/C++ File.tongdongian.cpp.executor": "Run",
+    "C/C++ File.trochoivoidayso.cpp.executor": "Run",
+    "C/C++ File.tronhaidaykhonggiamthanhmotdaykhongiam.cpp.executor": "Run",
+    "C/C++ File.trungbinhcongvatrungbinhnhan.cpp.executor": "Run",
+    "C/C++ File.tuoicuacaccon.cpp.executor": "Run",
+    "C/C++ File.twitter.cpp.executor": "Debug",
+    "C/C++ File.uutien.cpp.executor": "Debug",
+    "C/C++ File.vitrisaukhisapxep.cpp.executor": "Run",
+    "C/C++ File.worldcup.cpp.executor": "Run",
+    "C/C++ File.x.World Cup Brazil.cpp (1).executor": "Run",
+    "C/C++ File.x.World Cup Brazil.cpp.executor": "Run",
+    "C/C++ File.xephinhchunhat.cpp.executor": "Run",
+    "C/C++ File.xoaso0.cpp.executor": "Run",
+    "C/C++ File.xucxich-de.cpp.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/anhkh/CLionProjects/Algorithm/laptrinhonlinecpp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "structure.view.defaults.are.configured": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anhkh\CLionProjects\Algorithm\laptrinhonlinecpp\utc_code_c++" />
+      <recent name="C:\Users\anhkh\CLionProjects\Algorithm\laptrinhonlinecpp" />
+      <recent name="C:\Users\anhkh\CLionProjects\Algorithm" />
+    </key>
+  </component>
+  <component name="RunManager" selected="C/C++ File.diemtrungbinh.cpp">
+    <configuration name="5sochan.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm" TARGET_NAME="5sochan.cpp" CONFIG_NAME="5sochan.cpp">
+      <option name="sourceFile" value="laptrinhonlinecpp\5sochan.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cacluachon.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm" TARGET_NAME="cacluachon.cpp" CONFIG_NAME="cacluachon.cpp">
+      <option name="sourceFile" value="laptrinhonlinecpp\cacluachon.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="diemtrungbinh.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm" TARGET_NAME="diemtrungbinh.cpp" CONFIG_NAME="diemtrungbinh.cpp">
+      <option name="sourceFile" value="laptrinhonlinecpp\diemtrungbinh.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nqsonphatkeo.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm" TARGET_NAME="nqsonphatkeo.cpp" CONFIG_NAME="nqsonphatkeo.cpp">
+      <option name="sourceFile" value="laptrinhonlinecpp\nqsonphatkeo.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tuoicuacaccon.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm" TARGET_NAME="tuoicuacaccon.cpp" CONFIG_NAME="tuoicuacaccon.cpp">
+      <option name="sourceFile" value="laptrinhonlinecpp\tuoicuacaccon.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.diemtrungbinh.cpp" />
+        <item itemvalue="C/C++ File.5sochan.cpp" />
+        <item itemvalue="C/C++ File.nqsonphatkeo.cpp" />
+        <item itemvalue="C/C++ File.tuoicuacaccon.cpp" />
+        <item itemvalue="C/C++ File.cacluachon.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbf8008e-3090-41c0-8690-7ef035ba092d" name="Changes" comment="" />
+      <created>1702727403710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702727403710</updated>
+      <workItem from="1702727404772" duration="766000" />
+      <workItem from="1702730140402" duration="5359000" />
+      <workItem from="1702793771228" duration="16521000" />
+      <workItem from="1702814117363" duration="10000" />
+      <workItem from="1702858356605" duration="8606000" />
+      <workItem from="1702880843451" duration="16000" />
+      <workItem from="1702910654937" duration="3697000" />
+      <workItem from="1702953852837" duration="4908000" />
+      <workItem from="1702972744945" duration="9300000" />
+      <workItem from="1703040313252" duration="6020000" />
+      <workItem from="1703059433095" duration="404000" />
+      <workItem from="1703060527806" duration="6771000" />
+      <workItem from="1703084617611" duration="3769000" />
+      <workItem from="1703121654216" duration="55000" />
+      <workItem from="1703221720317" duration="20000" />
+      <workItem from="1703221788899" duration="958000" />
+      <workItem from="1703223091040" duration="342000" />
+      <workItem from="1703243338403" duration="1492000" />
+      <workItem from="1703262516864" duration="3450000" />
+      <workItem from="1703266031642" duration="10000" />
+      <workItem from="1703309857189" duration="822000" />
+      <workItem from="1703313836121" duration="925000" />
+      <workItem from="1703319192863" duration="767000" />
+      <workItem from="1703351602370" duration="713000" />
+      <workItem from="1703353071204" duration="2321000" />
+      <workItem from="1703398170905" duration="1903000" />
+      <workItem from="1703402813604" duration="2307000" />
+      <workItem from="1703406539447" duration="690000" />
+      <workItem from="1703415811280" duration="725000" />
+      <workItem from="1703437201202" duration="243000" />
+      <workItem from="1703438061422" duration="617000" />
+      <workItem from="1703474067603" duration="348000" />
+      <workItem from="1703474440215" duration="37000" />
+    </task>
+    <task id="LOCAL-00001" summary="utc code">
+      <option name="closed" value="true" />
+      <created>1702731089976</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702731089976</updated>
+    </task>
+    <task id="LOCAL-00002" summary="utc code">
+      <option name="closed" value="true" />
+      <created>1703404433514</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703404433514</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="utc code" />
+    <option name="LAST_COMMIT_MESSAGE" value="utc code" />
+  </component>
+</project>
