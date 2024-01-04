@@ -1,1 +1,1 @@
-CMakeLists.txt not found in C:\Users\anhkh\CLionProjects\CodebyC Select CMakeLists.txt
+CMakeLists.txt not found in C:\Users\anhkh\CLionProjects\Algorithm\CodebyC Select CMakeLists.txt

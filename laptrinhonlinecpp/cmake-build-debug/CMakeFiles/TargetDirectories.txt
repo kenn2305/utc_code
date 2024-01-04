@@ -1,3 +1,0 @@
-C:/Users/anhkh/CLionProjects/Algorithm/laptrinhonlinecpp/cmake-build-debug/CMakeFiles/laptrinhonlinecpp.dir
-C:/Users/anhkh/CLionProjects/Algorithm/laptrinhonlinecpp/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/anhkh/CLionProjects/Algorithm/laptrinhonlinecpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
