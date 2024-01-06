@@ -1,39 +1,38 @@
 #include <iostream>
+#include <vector>
 #include <cmath>
+using ll =long long ;
 using namespace std;
-long long prime[1000000+1];
-void sang(){
-    fill(prime,prime+1000000+1,1);
+const int MAXP = 1000001;
+vector<int>prime;
+void seive(){
+    prime.resize(MAXP,1);
     prime[0]=prime[1]=0;
-    for ( int i =2 ; i*i < 1000000 ; i++){
+    for ( int i = 2 ; i * i <= MAXP ; i++){
         if (prime[i]==1){
-            for ( int j = i*i ; j*j < 1000000 ; j+=i){
-                prime[j]=0;
+            for ( int j = i*i ; j  < MAXP ; j+=i){
+                prime[j] = 0 ;
             }
         }
     }
 }
-int squar(long long n){
-    int x = sqrt(n);
-    return x*x == n;
+int check_square(ll a){
+    ll x = sqrt(a);
+    return x*x==a;
 }
 int main(){
     int n ; cin >> n ;
-    long long a[100000];
-    sang();
-    for ( int i = 0 ; i < n ; i++){
-        cin >> a[i];
-    }
-    for ( int i = 0 ; i < n ; i++){
-        if (squar(a[i])){
-            long long j = sqrt(a[i]);
-            if (prime[j]){
+    seive();
+    while (n--){
+        ll x ; cin >> x ;
+        if (!check_square(x)) cout << "NO" << endl;
+        else {
+            ll k = sqrt(x);
+            if (prime[k]){
                 cout << "YES" << endl ;
             } else {
-                cout << "NO" << endl;
+                cout << "NO" << endl ;
             }
-        } else {
-            cout << "NO" << endl ;
         }
     }
     return 0;
