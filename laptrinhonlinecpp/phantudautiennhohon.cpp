@@ -1,36 +1,35 @@
 #include <iostream>
+#include <set>
 #include <vector>
-#include <algorithm>
 using namespace std;
-
-int main() {
-    int n, m;
-    cin >> n >> m;
-
-    // Input vector a
+void solve(vector<int> a , int x){
+    for ( int i = 0 ; i < a.size() ; i++){
+        if (a[i]-x <= 0){
+            cout << i+1 << endl ;
+            break;
+        }
+    }
+}
+int main(){
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    int n ; cin >> n ;
+    int t ; cin >> t ;
     vector<int> a;
-    for (int i = 0; i < n; i++) {
-        int x;
-        cin >> x;
+    vector<int> b;
+    b.reserve(t);
+    a.reserve(n);
+    for ( int i = 0 ; i < n ; i++){
+        int x ; cin >> x ;
         a.push_back(x);
     }
-
-    // Input vector b
-    vector<int> b;
-    for (int i = 0; i < m; i++) {
-        int x;
-        cin >> x;
+    for ( int i = 0 ; i < t ; i++){
+        int x ; cin >> x;
         b.push_back(x);
     }
-
-    // Sort vector a
-    sort(a.begin(), a.end());
-
-    // Find and print lower bound for each element in vector b
-    for (int i = 0; i < m; i++) {
-        auto it = lower_bound(a.begin(), a.end(), b[i]);
-        cout << it - a.begin() << endl;
+    for ( int i = 0 ; i < t ; i++){
+        solve(a,b[i]);
     }
-
     return 0;
 }

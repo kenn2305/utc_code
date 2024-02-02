@@ -1,30 +1,36 @@
 #include <iostream>
-#include <climits>
 #include <vector>
-#define MOD 10000000+9
+
 using namespace std;
-using ll = long long ;
-ll n,k;
-ll a[1000][1000];
-void tohop(){
-    a[1][0] = 1;
-    a[1][1] = 1;
-    for ( int i = 2 ; i <= n ; i++){
-        for ( int j = 0 ; j <= i ; j++){
-            if (j == 0 || j == i) a[i][j]=1;
-            else a[i][j] = a[i-1][j-1]+a[i-1][j];
+
+const long long MOD = 1000000007;
+
+long long binomialCoefficient(int n, int k) {
+    // Tạo một mảng để lưu trữ kết quả của dòng hiện tại
+    vector<long long> dp(k + 1, 0);
+
+    // Bắt đầu tính toán từ dòng đầu tiên
+    dp[0] = 1;
+
+    // Tính toán các giá trị và cập nhật mảng dp
+    for (int i = 1; i <= n; ++i) {
+        for (int j = min(i, k); j > 0; --j) {
+            dp[j] = (dp[j - 1] + dp[j]) % MOD;
         }
+        dp[0] = 1;  // Cập nhật giá trị cho trường hợp j = 0
     }
+
+    // Kết quả là giá trị tại ô dp[k]
+    return dp[k];
 }
-int main(){
+
+int main() {
     int t ; cin >> t ;
     while (t--){
-        cin >> n >> k ;
-        if (a[n][k] > LONG_LONG_MAX){
-            cout << a[n][k] % MOD << endl ;
-        } else {
-            cout << a[n][k] << endl ;
-        }
+        int n,k;
+        cin >> n >> k;
+        cout << binomialCoefficient(n,k) << endl ;
     }
+
     return 0;
 }
