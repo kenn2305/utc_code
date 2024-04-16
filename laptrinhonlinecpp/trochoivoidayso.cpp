@@ -1,30 +1,26 @@
 #include <iostream>
-#include <vector>
 #include <cmath>
 using namespace std;
 int main(){
     int n ; cin >> n ;
-    vector<int> a;
-    int sum = 0;
+    int a[n];
+    int maxval = -101;
+    int minval = 101;
+    int sum = 0 ;
     for ( int i = 0 ; i < n ; i++){
-        int x ; cin >> x ;
-        sum+=x;
-        a.push_back(x);
+        cin >> a[i];
+        maxval = max(a[i],maxval);
+        minval = min(a[i],minval);
     }
-    int b = sum / n ;
-    int res1 = 0 ;
-    int res2 = 0 ;
-    if (b += 0){
-        for (auto it : a){
-            res1+= pow((it-b),2);
+    int ins = (minval+maxval)/n ;
+    long long finalres = 1000000000 ;
+    for ( int i = minval ; i <= maxval ; i++){
+        long long res = 0 ;
+        for ( int j = 0 ; j < n ; j++){
+            res += pow(a[j]-ins,i);
         }
+        finalres = min(res,finalres);
     }
-    if (b+= 1){
-        for (auto it : a){
-            res2+= pow((it-b),2);
-        }
-    }
-    int fnres = min(res2,res1);
-    cout << fnres << endl ;
+    cout << finalres << endl ;
     return 0;
 }

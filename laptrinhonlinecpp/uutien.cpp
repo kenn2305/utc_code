@@ -1,25 +1,25 @@
 #include <iostream>
-#include <map>
+#include <unordered_map>
 #include <vector>
 #include <algorithm>
 using namespace std;
 int main(){
+    ios_base::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
     int n ; cin >> n ;
-    vector<int> a ;
-    a.reserve(n);
-    for ( int i = 0 ; i < n ; i++){
+    unordered_map<int,int> mp;
+    for ( int i = 0; i < n ; i++){
         int x ; cin >> x ;
-        a.push_back(x);
+        mp[x]++;
     }
-    map<const int , int > mp;
-    for ( auto it : a){
-        mp[it]++;
-    }
-    auto Frequency = max_element(mp.begin() , mp.end() , [](auto &a , auto &b){
-        return a < b ;
-    });
-    for ( pair <int,int> it : mp){
-        cout << it.first << " " << it.second << endl ;
+    vector<pair<int,int>> a(mp.begin(),mp.end());
+    sort(a.begin(),a.end());
+    int cnt = 0 ;
+    for (auto it : a){
+        cnt++;
+        cout << it.first << " ";
+        if (cnt== 3) break;
     }
     return 0;
 }

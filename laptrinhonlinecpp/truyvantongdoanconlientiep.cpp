@@ -1,29 +1,23 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-
-int main() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(NULL);
-
-    int n, m;
-    cin >> n >> m;
-
-    vector<int> a(n);
-    vector<int> prefixSum(n + 1, 0);
-
-    for (int i = 0; i < n; i++) {
-        cin >> a[i];
-        prefixSum[i + 1] = prefixSum[i] + a[i];
+using ll = long long;
+int main(){
+    ll n , m ;
+    scanf("%lld%lld",&n,&m);
+    vector<ll> a(n+1);
+    vector<ll> prefix(n+1);
+    prefix.resize(n+1,0);
+    for ( ll i = 1 ; i <= n ; i++){
+        scanf("%lld",&a[i]);
+        prefix[i] = prefix[i-1]+a[i];
     }
-
-    while (m--) {
-        int x, y;
-        cin >> x >> y;
-        long long sum = prefixSum[y] - prefixSum[x - 1];
-        cout << sum << endl;
+    while (m--){
+        ll l , r ;
+        scanf("%lld%lld",&l,&r);
+        ll sum = 0 ;
+        sum = prefix[r] - prefix[l-1];
+        printf("%lld\n",sum);
     }
-
     return 0;
 }
