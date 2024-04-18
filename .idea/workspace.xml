@@ -9,9 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbf8008e-3090-41c0-8690-7ef035ba092d" name="Changes" comment="utc code">
-      <change beforePath="$PROJECT_DIR$/laptrinhonlinecpp/utc_code_c++/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/laptrinhonlinecpp/utc_code_c++/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="dbf8008e-3090-41c0-8690-7ef035ba092d" name="Changes" comment="utc code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,6 +112,7 @@
     "C/C++ File.x.World Cup Brazil.cpp (1).executor": "Run",
     "C/C++ File.x.World Cup Brazil.cpp.executor": "Run",
     "C/C++ File.xephinhchunhat.cpp.executor": "Run",
+    "C/C++ File.xkkitu.cpp.executor": "Run",
     "C/C++ File.xoaso0.cpp.executor": "Run",
     "C/C++ File.xucxich-de.cpp.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -141,15 +140,9 @@
       <recent name="C:\Users\anhkh\CLionProjects\Algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.diemtrungbinh.cpp">
+  <component name="RunManager" selected="C/C++ File.xkkitu.cpp">
     <configuration name="5sochan.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm" TARGET_NAME="5sochan.cpp" CONFIG_NAME="5sochan.cpp">
       <option name="sourceFile" value="laptrinhonlinecpp\5sochan.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="cacluachon.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm" TARGET_NAME="cacluachon.cpp" CONFIG_NAME="cacluachon.cpp">
-      <option name="sourceFile" value="laptrinhonlinecpp\cacluachon.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -172,13 +165,19 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="xkkitu.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm" TARGET_NAME="xkkitu.cpp" CONFIG_NAME="xkkitu.cpp">
+      <option name="sourceFile" value="laptrinhonlinecpp\xkkitu.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.xkkitu.cpp" />
         <item itemvalue="C/C++ File.diemtrungbinh.cpp" />
         <item itemvalue="C/C++ File.5sochan.cpp" />
         <item itemvalue="C/C++ File.nqsonphatkeo.cpp" />
         <item itemvalue="C/C++ File.tuoicuacaccon.cpp" />
-        <item itemvalue="C/C++ File.cacluachon.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -223,6 +222,11 @@
       <workItem from="1703438061422" duration="617000" />
       <workItem from="1703474067603" duration="348000" />
       <workItem from="1703474440215" duration="37000" />
+      <workItem from="1705635552165" duration="44000" />
+      <workItem from="1709567585055" duration="16000" />
+      <workItem from="1712698354845" duration="119000" />
+      <workItem from="1713165259604" duration="391000" />
+      <workItem from="1713227241053" duration="25000" />
     </task>
     <task id="LOCAL-00001" summary="utc code">
       <option name="closed" value="true" />
